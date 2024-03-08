@@ -1,1 +1,3 @@
-# class-2
+<div dir="rtl">
+  سلام تست
+</div>
